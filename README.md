@@ -1,2 +1,2 @@
 # react-tutorial
-react project folder
+<p>GIT Tutorial</p>
